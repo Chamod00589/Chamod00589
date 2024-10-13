@@ -77,5 +77,5 @@ _G.C.E. Advanced Level (Technology Stream)_
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3500&pause=1000&color=50D366&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Reality!;Let's+Create+Something+Amazing+Together!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=3500&pause=1000&color=50D366&center=true&vCenter=true&width=435&lines=Turning+Ideas+into+Reality!; Let's+Create+Something+Amazing+Together!" alt="Typing SVG" />
 </p>
